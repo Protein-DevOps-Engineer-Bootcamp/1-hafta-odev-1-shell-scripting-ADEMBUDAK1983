@@ -1,0 +1,8 @@
+crontab -e
+
+@minly /home/ubuntu/check_disk.sh
+
+or add
+
+At every minute;
+* * * * *
